@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35685166777",
+    "project_id": "parakeet-3241a",
+    "storage_bucket": "parakeet-3241a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35685166777:android:41843dc1d75fbe6d65b568",
+        "android_client_info": {
+          "package_name": "com.sayankabir.parakeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZjw6X5EBdX-vzehX_dPxVo-oGemI--c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
